@@ -5,7 +5,7 @@ def conv(num,sys):
         num //= sys
     return res[::-1]
 ans = []
-for n in range(10, 10000):
+for n in range(11, 10000):
     n1 = conv(n, 3)
     if n1.count("2") > n1.count("1"):
         n1 = "22" + n1
