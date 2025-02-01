@@ -9,5 +9,5 @@ true_events = [events[0]]
 for event in events:
     if event[0] >= true_events[-1][1]:
         true_events.append(event)
-print(len(true_events), true_events[-2:], "\n", events[-10:]) # всегда начинать с данных с сайта
+print(len(true_events), true_events[-2:], "\n", max(events[events.index(true_events[-1]):])) # всегда начинать с данных с сайта
 # смотрим в итоге глазками на последние ивенты
