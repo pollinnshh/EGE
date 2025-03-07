@@ -1,7 +1,7 @@
 from itertools import permutations, product
 
 
-def f(x, y, z, w):
+def f(x, y, z, w, u):
     return ((z <= w) and (y == (not x)) <= (u == (y or z)))
 
 
