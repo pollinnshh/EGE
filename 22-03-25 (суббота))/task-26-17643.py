@@ -26,10 +26,10 @@ with open("26_17643.txt") as file:
         length += 1
         if art not in goods:
             goods[art] = [price, 0, 0]
-            if stat:
-                goods[art][1] += 1
-            else:
-                goods[art][2] += 1
+        if stat:
+            goods[art][1] += 1
+        else:
+            goods[art][2] += 1
 
 midd /= length
 goods2 = []
