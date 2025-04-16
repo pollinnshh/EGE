@@ -1,5 +1,5 @@
 from itertools import *
-def f(a):
+def f(x):
     p = 35 <= x <= 55
     q = 45 <= x <= 65
     a = a1 <= x <= a2
