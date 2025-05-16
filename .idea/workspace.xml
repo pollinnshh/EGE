@@ -4,9 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="124369ad-aead-488d-9a63-be5ba10078c8" name="Changes" comment="решаем пятое">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/егэкр-21-12-24/task-5-19237.py" beforeDir="false" afterPath="$PROJECT_DIR$/егэкр-21-12-24/task-5-19237.py" afterDir="false" />
+    <list default="true" id="124369ad-aead-488d-9a63-be5ba10078c8" name="Changes" comment="варик">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_1866.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_1866.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_1975.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_1975.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_2942.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_2942.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_3228.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_3228.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_3584.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_3584.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_4602.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_4602.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_4627.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_4627.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_4682.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_4682.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_6054.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_6054.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_8510.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_8510.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_9791.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_9791.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/24_9845.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/24_9845.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/27A_18056.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/27A_18056.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/27B_18056.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/27B_18056.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24- 1866.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24- 1866.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-1975.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-1975.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-2942.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-2942.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-3228.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-3228.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-3584.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-3584.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-4602.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-4602.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-4627.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-4627.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-4682.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-4682.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-6054.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-6054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-8510.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-8510.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-9791.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-9791.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-24-9845.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-24-9845.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13-05-25/task-27-18056.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/13-05-25 (24 type)/task-27-18056.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +48,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -48,12 +75,335 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.14390.executor": "Run",
+    "Python.15-1.executor": "Run",
+    "Python.15-2.executor": "Run",
+    "Python.15.executor": "Run",
+    "Python.5-3.executor": "Run",
+    "Python.task 12.executor": "Run",
+    "Python.task 14.executor": "Run",
+    "Python.task 16.executor": "Run",
+    "Python.task 2.executor": "Run",
+    "Python.task 23.executor": "Run",
+    "Python.task 5.executor": "Run",
+    "Python.task 6.executor": "Run",
+    "Python.task 8.executor": "Run",
+    "Python.task-1(крылов).executor": "Run",
+    "Python.task-1-1.executor": "Run",
+    "Python.task-1-17514.executor": "Run",
+    "Python.task-1-1845.executor": "Run",
+    "Python.task-1-4581.executor": "Run",
+    "Python.task-1-4606.executor": "Run",
+    "Python.task-1-9732.executor": "Run",
+    "Python.task-1-9770.executor": "Run",
+    "Python.task-10783.executor": "Run",
+    "Python.task-11837.executor": "Run",
+    "Python.task-12-10714.executor": "Run",
+    "Python.task-12-11231.executor": "Run",
+    "Python.task-12-14372.executor": "Run",
+    "Python.task-12-14947.executor": "Run",
+    "Python.task-12-15325.executor": "Run",
+    "Python.task-12-19483.executor": "Run",
+    "Python.task-12-5219.executor": "Run",
+    "Python.task-12.executor": "Run",
+    "Python.task-13-10162.executor": "Run",
+    "Python.task-13-10164.executor": "Run",
+    "Python.task-13-10781.executor": "Run",
+    "Python.task-13-10786.executor": "Run",
+    "Python.task-13-11232.executor": "Run",
+    "Python.task-13-11784.executor": "Run",
+    "Python.task-13-11789.executor": "Run",
+    "Python.task-13-11790.executor": "Run",
+    "Python.task-13-11791.executor": "Run",
+    "Python.task-13-11794.executor": "Run",
+    "Python.task-13-11835.executor": "Run",
+    "Python.task-13-13885.executor": "Run",
+    "Python.task-13-14355.executor": "Run",
+    "Python.task-13-14356.executor": "Run",
+    "Python.task-13-14359.executor": "Run",
+    "Python.task-13-14648.executor": "Run",
+    "Python.task-13-14650.executor": "Run",
+    "Python.task-13-17526.executor": "Run",
+    "Python.task-13-17554.executor": "Run",
+    "Python.task-13-17632.executor": "Run",
+    "Python.task-13-17676.executor": "Run",
+    "Python.task-13-17710.executor": "Run",
+    "Python.task-13-18487.executor": "Run",
+    "Python.task-13-18615.executor": "Run",
+    "Python.task-13-18955.executor": "Run",
+    "Python.task-13-20807.executor": "Run",
+    "Python.task-14-12246.executor": "Run",
+    "Python.task-14-14344.executor": "Run",
+    "Python.task-14-18122.executor": "Run",
+    "Python.task-14-18167.executor": "Run",
+    "Python.task-14-18488.executor": "Run",
+    "Python.task-14-18580.executor": "Run",
+    "Python.task-14-19246.executor": "Run",
+    "Python.task-14-19307.executor": "Run",
+    "Python.task-14-19359.executor": "Run",
+    "Python.task-14-19406.executor": "Run",
+    "Python.task-14-19705.executor": "Run",
+    "Python.task-14-20490.executor": "Run",
+    "Python.task-14-20904.executor": "Run",
+    "Python.task-14-4326.executor": "Run",
+    "Python.task-14.executor": "Run",
+    "Python.task-15-1013.executor": "Run",
+    "Python.task-15-11665.executor": "Run",
+    "Python.task-15-11845.executor": "Run",
+    "Python.task-15-1198.executor": "Run",
+    "Python.task-15-12247.executor": "Run",
+    "Python.task-15-12469.executor": "Run",
+    "Python.task-15-12483.executor": "Run",
+    "Python.task-15-1276.executor": "Run",
+    "Python.task-15-14350.executor": "Run",
+    "Python.task-15-14353.executor": "Run",
+    "Python.task-15-14658.executor": "Run",
+    "Python.task-15-16326.executor": "Run",
+    "Python.task-15-16833.executor": "Run",
+    "Python.task-15-17528.executor": "Run",
+    "Python.task-15-18140.executor": "Run",
+    "Python.task-15-18175.executor": "Run",
+    "Python.task-15-18489.executor": "Run",
+    "Python.task-15-19247.executor": "Run",
+    "Python.task-15-2861.executor": "Run",
+    "Python.task-15-3736.executor": "Run",
+    "Python.task-15-4278.executor": "Run",
+    "Python.task-15-4279.executor": "Run",
+    "Python.task-15-4285.executor": "Run",
+    "Python.task-15-4595.executor": "Run",
+    "Python.task-15-4620.executor": "Run",
+    "Python.task-15-4770.executor": "Run",
+    "Python.task-15-6827.executor": "Run",
+    "Python.task-15-746.executor": "Run",
+    "Python.task-15-747.executor": "Run",
+    "Python.task-15-748.executor": "Run",
+    "Python.task-15-753.executor": "Run",
+    "Python.task-15-9746.executor": "Run",
+    "Python.task-15-9784.executor": "Run",
+    "Python.task-15.executor": "Run",
+    "Python.task-16-17529.executor": "Run",
+    "Python.task-16-17557.executor": "Run",
+    "Python.task-16-17749.executor": "Run",
+    "Python.task-16-18123.executor": "Run",
+    "Python.task-16-1860.executor": "Run",
+    "Python.task-16-21711.executor": "Run",
+    "Python.task-16-4596.executor": "Run",
+    "Python.task-16-4621.executor": "Run",
+    "Python.task-16-9747.executor": "Run",
+    "Python.task-16-9785.executor": "Run",
+    "Python.task-16-9839.executor": "Run",
+    "Python.task-16.executor": "Run",
+    "Python.task-17-12249.executor": "Run",
+    "Python.task-17-12450.executor": "Run",
+    "Python.task-17-12735.executor": "Run",
+    "Python.task-17-14952.executor": "Run",
+    "Python.task-17-17636.executor": "Run",
+    "Python.task-17-18582.executor": "Run",
+    "Python.task-17-19486.executor": "Run",
+    "Python.task-17-4597.executor": "Run",
+    "Python.task-17-4622.executor": "Run",
+    "Python.task-17-5758.executor": "Run",
+    "Python.task-17-7716.executor": "Run",
+    "Python.task-17-7718.executor": "Run",
+    "Python.task-17-9748.executor": "Run",
+    "Python.task-17-9786.executor": "Run",
+    "Python.task-17.executor": "Run",
+    "Python.task-18869.executor": "Run",
+    "Python.task-19,20,21-12473.executor": "Run",
+    "Python.task-19,20,21-16266.executor": "Run",
+    "Python.task-19,20,21-17532.executor": "Run",
+    "Python.task-19,20,21-17638.executor": "Run",
+    "Python.task-19,20,21-18268.executor": "Run",
+    "Python.task-19,20,21-1863.executor": "Run",
+    "Python.task-19,20,21-20907.executor": "Run",
+    "Python.task-19,20,21-436.executor": "Run",
+    "Python.task-19,20,21-4599.executor": "Run",
+    "Python.task-19,20,21-4624.executor": "Run",
+    "Python.task-19,20,21-702.executor": "Run",
+    "Python.task-19,20,21-845.executor": "Run",
+    "Python.task-19,20,21.executor": "Run",
+    "Python.task-2-12671.executor": "Run",
+    "Python.task-2-13077.executor": "Run",
+    "Python.task-2-13089.executor": "Run",
+    "Python.task-2-14651.executor": "Run",
+    "Python.task-2-1528.executor": "Run",
+    "Python.task-2-18870.executor": "Run",
+    "Python.task-2-18917.executor": "Run",
+    "Python.task-2-5057.executor": "Run",
+    "Python.task-2.executor": "Run",
+    "Python.task-23-11240.executor": "Run",
+    "Python.task-23-12475.executor": "Run",
+    "Python.task-23-13099.executor": "Run",
+    "Python.task-23-17534.executor": "Run",
+    "Python.task-23-17562.executor": "Run",
+    "Python.task-23-18267.executor": "Run",
+    "Python.task-23-1865.executor": "Run",
+    "Python.task-23-19121.executor": "Run",
+    "Python.task-23-4498.executor": "Run",
+    "Python.task-23-4601.executor": "Run",
+    "Python.task-23-4626.executor": "Run",
+    "Python.task-23-5937.executor": "Run",
+    "Python.task-23-5938.executor": "Run",
+    "Python.task-23-6635.executor": "Run",
+    "Python.task-23-9790.executor": "Run",
+    "Python.task-23-9844.executor": "Run",
+    "Python.task-23.executor": "Run",
+    "Python.task-24- 1866.executor": "Run",
+    "Python.task-24-10131.executor": "Run",
+    "Python.task-24-15339.executor": "Run",
+    "Python.task-24-16269.executor": "Run",
+    "Python.task-24-18147.executor": "Run",
+    "Python.task-24-18284.executor": "Run",
+    "Python.task-24-18597.executor": "Run",
+    "Python.task-24-1866.executor": "Run",
+    "Python.task-24-1975.executor": "Run",
+    "Python.task-24-21421.executor": "Run",
+    "Python.task-24-2421.executor": "Run",
+    "Python.task-24-2942.executor": "Run",
+    "Python.task-24-3228.executor": "Run",
+    "Python.task-24-3584.executor": "Run",
+    "Python.task-24-3792.executor": "Run",
+    "Python.task-24-4602.executor": "Run",
+    "Python.task-24-4627.executor": "Run",
+    "Python.task-24-4643.executor": "Run",
+    "Python.task-24-4682.executor": "Run",
+    "Python.task-24-6054.executor": "Run",
+    "Python.task-24-7979.executor": "Run",
+    "Python.task-24-8060.executor": "Run",
+    "Python.task-24-8100.executor": "Run",
+    "Python.task-24-8115.executor": "Run",
+    "Python.task-24-8510.executor": "Run",
+    "Python.task-24-9753.executor": "Run",
+    "Python.task-24-9791(the best).executor": "Run",
+    "Python.task-24-9791.executor": "Run",
+    "Python.task-24-9845.executor": "Run",
+    "Python.task-24.executor": "Run",
+    "Python.task-25-11672.executor": "Run",
+    "Python.task-25-11814.executor": "Run",
+    "Python.task-25-11955.executor": "Run",
+    "Python.task-25-12741.executor": "Run",
+    "Python.task-25-13440.executor": "Run",
+    "Python.task-25-14438.executor": "Run",
+    "Python.task-25-17536.executor": "Run",
+    "Python.task-25-17564.executor": "Run",
+    "Python.task-25-17879.executor": "Run",
+    "Python.task-25-17880.executor": "Run",
+    "Python.task-25-18591.executor": "Run",
+    "Python.task-25-18620.executor": "Run",
+    "Python.task-25-1867.executor": "Run",
+    "Python.task-25-19157.executor": "Run",
+    "Python.task-25-19755.executor": "Run",
+    "Python.task-25-19779.executor": "Run",
+    "Python.task-25-2716.executor": "Run",
+    "Python.task-25-3025.executor": "Run",
+    "Python.task-25-3585.executor": "Run",
+    "Python.task-25-4603.executor": "Run",
+    "Python.task-25-4628.executor": "Run",
+    "Python.task-25-5477.executor": "Run",
+    "Python.task-25-5678.executor": "Run",
+    "Python.task-25-5736.executor": "Run",
+    "Python.task-25-6276.executor": "Run",
+    "Python.task-25-8696.executor": "Run",
+    "Python.task-25-896.executor": "Run",
+    "Python.task-25-9754.executor": "Run",
+    "Python.task-25-9792.executor": "Run",
+    "Python.task-25.executor": "Run",
+    "Python.task-26-16390.executor": "Run",
+    "Python.task-26-17537.executor": "Run",
+    "Python.task-26-17643.executor": "Run",
+    "Python.task-26-17786.executor": "Run",
+    "Python.task-26-19727.executor": "Run",
+    "Python.task-26-2717.executor": "Run",
+    "Python.task-26-3902.executor": "Run",
+    "Python.task-26-4604.executor": "Run",
+    "Python.task-26-4660.executor": "Run",
+    "Python.task-26-9171.executor": "Run",
+    "Python.task-26-9711.executor": "Run",
+    "Python.task-26.executor": "Run",
+    "Python.task-2695.executor": "Run",
+    "Python.task-27-17882.executor": "Run",
+    "Python.task-27-17916.executor": "Run",
+    "Python.task-27-18056.executor": "Run",
+    "Python.task-27-18677.executor": "Run",
+    "Python.task-27-18678.executor": "Run",
+    "Python.task-27-19566.executor": "Run",
+    "Python.task-27-19567.executor": "Run",
+    "Python.task-27-19715.executor": "Run",
+    "Python.task-27-20497.executor": "Run",
+    "Python.task-27-21425.executor": "Run",
+    "Python.task-27-21599.executor": "Run",
+    "Python.task-27-21720.executor": "Run",
+    "Python.task-27-21911.executor": "Run",
+    "Python.task-27-21932.executor": "Run",
+    "Python.task-4582.executor": "Run",
+    "Python.task-5-10657.executor": "Run",
+    "Python.task-5-14327.executor": "Run",
+    "Python.task-5-14328.executor": "Run",
+    "Python.task-5-15317.executor": "Run",
+    "Python.task-5-18119.executor": "Run",
+    "Python.task-5-18578.executor": "Run",
     "Python.task-5-19237.executor": "Run",
+    "Python.task-5-19872.executor": "Run",
+    "Python.task-5-19874.executor": "Run",
+    "Python.task-5-20182.executor": "Run",
+    "Python.task-5-4869.executor": "Run",
+    "Python.task-5-5412.executor": "Run",
+    "Python.task-5-7607.executor": "Run",
+    "Python.task-5-9736.executor": "Run",
+    "Python.task-5.executor": "Run",
+    "Python.task-6-17519.executor": "Run",
+    "Python.task-6-17625.executor": "Run",
+    "Python.task-6-18131.executor": "Run",
+    "Python.task-6-20183.executor": "Run",
+    "Python.task-6-6013.executor": "Run",
+    "Python.task-6.executor": "Run",
+    "Python.task-7-19558.executor": "Run",
+    "Python.task-7667.executor": "Run",
+    "Python.task-8-11292.executor": "Run",
+    "Python.task-8-12786.executor": "Run",
+    "Python.task-8-13252.executor": "Run",
+    "Python.task-8-17798.executor": "Run",
+    "Python.task-8-17799.executor": "Run",
+    "Python.task-8-17862.executor": "Run",
+    "Python.task-8-18043.executor": "Run",
+    "Python.task-8-18963.executor": "Run",
+    "Python.task-8-18976.executor": "Run",
+    "Python.task-8-19480.executor": "Run",
+    "Python.task-8-360.executor": "Run",
+    "Python.task-8-4320.executor": "Run",
+    "Python.task-8-6591.executor": "Run",
+    "Python.task-8-6985.executor": "Run",
+    "Python.task-8-9994.executor": "Run",
+    "Python.task-8.executor": "Run",
+    "Python.task-8058.executor": "Run",
+    "Python.task-9-4589.executor": "Run",
+    "Python.task-9-4614.executor": "Run",
+    "Python.task-9-9740.executor": "Run",
+    "Python.task-9-9778.executor": "Run",
+    "Python.task-9.executor": "Run",
+    "Python.task-9771.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/PShevchenko/Desktop/EGE/25-03-25",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PShevchenko\Desktop\EGE\25-03-25" />
+      <recent name="C:\Users\PShevchenko\Desktop\EGE\18-01-25" />
+      <recent name="C:\Users\PShevchenko\Desktop\EGE\10-01-25" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PShevchenko\Desktop\EGE\lessons\16-05-25" />
+      <recent name="C:\Users\PShevchenko\Desktop\EGE\lessons\13-05-25" />
+      <recent name="C:\Users\PShevchenko\Desktop\EGE\lessons\09-05-25" />
+      <recent name="C:\Users\PShevchenko\Desktop\EGE\lessons\06-05-25" />
+      <recent name="C:\Users\PShevchenko\Desktop\EGE\lessons\02-05-25 (27 тип)" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,28 +420,427 @@
       <option name="presentableId" value="Default" />
       <updated>1735050014485</updated>
     </task>
-    <task id="LOCAL-00001" summary="Initial commit">
+    <task id="LOCAL-00147" summary="13 тип">
       <option name="closed" value="true" />
-      <created>1735050654846</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+      <created>1744385905265</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
       <option name="project" value="LOCAL" />
-      <updated>1735050654846</updated>
+      <updated>1744385905265</updated>
     </task>
-    <task id="LOCAL-00002" summary="решаем пятое">
+    <task id="LOCAL-00148" summary="текстовые">
       <option name="closed" value="true" />
-      <created>1735051323008</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+      <created>1744473535665</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
       <option name="project" value="LOCAL" />
-      <updated>1735051323008</updated>
+      <updated>1744473535665</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00149" summary="24 тип">
+      <option name="closed" value="true" />
+      <created>1744473579229</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1744473579229</updated>
+    </task>
+    <task id="LOCAL-00150" summary="текстовые">
+      <option name="closed" value="true" />
+      <created>1744732603150</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1744732603150</updated>
+    </task>
+    <task id="LOCAL-00151" summary="13 тип">
+      <option name="closed" value="true" />
+      <created>1744732622982</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1744732622982</updated>
+    </task>
+    <task id="LOCAL-00152" summary="17 тип">
+      <option name="closed" value="true" />
+      <created>1744732633831</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1744732633831</updated>
+    </task>
+    <task id="LOCAL-00153" summary="19, 20, 21 тип">
+      <option name="closed" value="true" />
+      <created>1744732651168</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1744732651168</updated>
+    </task>
+    <task id="LOCAL-00154" summary="8 тип">
+      <option name="closed" value="true" />
+      <created>1744990930279</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1744990930279</updated>
+    </task>
+    <task id="LOCAL-00155" summary="13 тип">
+      <option name="closed" value="true" />
+      <created>1744990953548</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1744990953548</updated>
+    </task>
+    <task id="LOCAL-00156" summary="13 тип">
+      <option name="closed" value="true" />
+      <created>1745071166403</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1745071166403</updated>
+    </task>
+    <task id="LOCAL-00157" summary="17 тип">
+      <option name="closed" value="true" />
+      <created>1745071186230</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1745071186230</updated>
+    </task>
+    <task id="LOCAL-00158" summary="19,20,21 тип">
+      <option name="closed" value="true" />
+      <created>1745071207268</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1745071207268</updated>
+    </task>
+    <task id="LOCAL-00159" summary="текстовый">
+      <option name="closed" value="true" />
+      <created>1745071224357</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1745071224357</updated>
+    </task>
+    <task id="LOCAL-00160" summary="текстовые">
+      <option name="closed" value="true" />
+      <created>1745077350139</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1745077350139</updated>
+    </task>
+    <task id="LOCAL-00161" summary="24 тип">
+      <option name="closed" value="true" />
+      <created>1745077387688</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1745077387688</updated>
+    </task>
+    <task id="LOCAL-00162" summary="2 тип">
+      <option name="closed" value="true" />
+      <created>1745337066231</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1745337066231</updated>
+    </task>
+    <task id="LOCAL-00163" summary="5 тип">
+      <option name="closed" value="true" />
+      <created>1745337086812</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1745337086812</updated>
+    </task>
+    <task id="LOCAL-00164" summary="6 тип">
+      <option name="closed" value="true" />
+      <created>1745337113932</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1745337113932</updated>
+    </task>
+    <task id="LOCAL-00165" summary="8 тип">
+      <option name="closed" value="true" />
+      <created>1745337127486</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1745337127486</updated>
+    </task>
+    <task id="LOCAL-00166" summary="12 тип">
+      <option name="closed" value="true" />
+      <created>1745337137194</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1745337137194</updated>
+    </task>
+    <task id="LOCAL-00167" summary="8 тип">
+      <option name="closed" value="true" />
+      <created>1745595829743</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1745595829743</updated>
+    </task>
+    <task id="LOCAL-00168" summary="текстовые">
+      <option name="closed" value="true" />
+      <created>1745683169805</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1745683169805</updated>
+    </task>
+    <task id="LOCAL-00169" summary="24 тип (регулярки)">
+      <option name="closed" value="true" />
+      <created>1745683208352</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1745683208352</updated>
+    </task>
+    <task id="LOCAL-00170" summary="24 тип (регулярки)">
+      <option name="closed" value="true" />
+      <created>1745683226282</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1745683226282</updated>
+    </task>
+    <task id="LOCAL-00171" summary="8 тип">
+      <option name="closed" value="true" />
+      <created>1745938206901</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1745938206901</updated>
+    </task>
+    <task id="LOCAL-00172" summary="13 тип">
+      <option name="closed" value="true" />
+      <created>1745938219648</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1745938219648</updated>
+    </task>
+    <task id="LOCAL-00173" summary="25 тип">
+      <option name="closed" value="true" />
+      <created>1745938234327</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1745938234327</updated>
+    </task>
+    <task id="LOCAL-00174" summary="текстовые">
+      <option name="closed" value="true" />
+      <created>1745941976788</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1745941976788</updated>
+    </task>
+    <task id="LOCAL-00175" summary="27 тип">
+      <option name="closed" value="true" />
+      <created>1745941994150</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1745941994150</updated>
+    </task>
+    <task id="LOCAL-00176" summary="8 тип">
+      <option name="closed" value="true" />
+      <created>1745942009122</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1745942009122</updated>
+    </task>
+    <task id="LOCAL-00177" summary="13 тип">
+      <option name="closed" value="true" />
+      <created>1745942022905</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1745942022905</updated>
+    </task>
+    <task id="LOCAL-00178" summary="25 тип">
+      <option name="closed" value="true" />
+      <created>1745942035793</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1745942035793</updated>
+    </task>
+    <task id="LOCAL-00179" summary="текстовые">
+      <option name="closed" value="true" />
+      <created>1746200901693</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1746200901693</updated>
+    </task>
+    <task id="LOCAL-00180" summary="14 тип">
+      <option name="closed" value="true" />
+      <created>1746200917528</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1746200917528</updated>
+    </task>
+    <task id="LOCAL-00181" summary="15 тип">
+      <option name="closed" value="true" />
+      <created>1746200934848</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1746200934848</updated>
+    </task>
+    <task id="LOCAL-00182" summary="27 тип">
+      <option name="closed" value="true" />
+      <created>1746200958174</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1746200958174</updated>
+    </task>
+    <task id="LOCAL-00183" summary="текстовые">
+      <option name="closed" value="true" />
+      <created>1746546276573</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1746546276573</updated>
+    </task>
+    <task id="LOCAL-00184" summary="текстовые">
+      <option name="closed" value="true" />
+      <created>1746546322783</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1746546322783</updated>
+    </task>
+    <task id="LOCAL-00185" summary="15 тип">
+      <option name="closed" value="true" />
+      <created>1746546337427</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1746546337427</updated>
+    </task>
+    <task id="LOCAL-00186" summary="27 тип">
+      <option name="closed" value="true" />
+      <created>1746546352619</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1746546352619</updated>
+    </task>
+    <task id="LOCAL-00187" summary="текстовые">
+      <option name="closed" value="true" />
+      <created>1746805925791</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1746805925791</updated>
+    </task>
+    <task id="LOCAL-00188" summary="16 тип">
+      <option name="closed" value="true" />
+      <created>1746805948266</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1746805948266</updated>
+    </task>
+    <task id="LOCAL-00189" summary="19 тип">
+      <option name="closed" value="true" />
+      <created>1746805959292</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1746805959292</updated>
+    </task>
+    <task id="LOCAL-00190" summary="23,25 тип">
+      <option name="closed" value="true" />
+      <created>1746805974357</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1746805974357</updated>
+    </task>
+    <task id="LOCAL-00191" summary="27 тип">
+      <option name="closed" value="true" />
+      <created>1746805992985</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1746805992985</updated>
+    </task>
+    <task id="LOCAL-00192" summary="текстовые">
+      <option name="closed" value="true" />
+      <created>1747151681792</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1747151681792</updated>
+    </task>
+    <task id="LOCAL-00193" summary="24 тип">
+      <option name="closed" value="true" />
+      <created>1747151732755</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1747151732755</updated>
+    </task>
+    <task id="LOCAL-00194" summary="27 тип">
+      <option name="closed" value="true" />
+      <created>1747151746955</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1747151746955</updated>
+    </task>
+    <task id="LOCAL-00195" summary="варик">
+      <option name="closed" value="true" />
+      <created>1747403996844</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1747403996844</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
-    <MESSAGE value="решаем пятое" />
-    <option name="LAST_COMMIT_MESSAGE" value="решаем пятое" />
+    <MESSAGE value="26 тип (пробник, недорешала)" />
+    <MESSAGE value="26 тип" />
+    <MESSAGE value="9 тип (код)" />
+    <MESSAGE value="досрок" />
+    <MESSAGE value="19, 20, 21 тип" />
+    <MESSAGE value="17 тип" />
+    <MESSAGE value="19,20,21 тип" />
+    <MESSAGE value="текстовый" />
+    <MESSAGE value="2 тип" />
+    <MESSAGE value="5 тип" />
+    <MESSAGE value="6 тип" />
+    <MESSAGE value="12 тип" />
+    <MESSAGE value="24 тип (регулярки)" />
+    <MESSAGE value="8 тип" />
+    <MESSAGE value="13 тип" />
+    <MESSAGE value="25 тип" />
+    <MESSAGE value="14 тип" />
+    <MESSAGE value="15 тип" />
+    <MESSAGE value="16 тип" />
+    <MESSAGE value="19 тип" />
+    <MESSAGE value="23,25 тип" />
+    <MESSAGE value="текстовые" />
+    <MESSAGE value="24 тип" />
+    <MESSAGE value="27 тип" />
+    <MESSAGE value="варик" />
+    <option name="LAST_COMMIT_MESSAGE" value="варик" />
   </component>
 </project>
