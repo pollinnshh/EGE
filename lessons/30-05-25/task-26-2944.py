@@ -11,7 +11,7 @@ for file in files:
     else:
         break
 
-s += users.pop()  # удаляет последний по умолчанию
+s += users.pop()  # удаляет и запоминает последний по умолчанию
 files = sorted(files)[::-1]
 for file in files:
     if file <= s:
