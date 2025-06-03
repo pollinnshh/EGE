@@ -7,3 +7,4 @@ mag = sum(costs) - sum(costs[5::6]) // 2
 pok = sum(costs[:-int(n) // 6]) + sum(costs[-int(n) // 6:]) // 2
 
 print(mag, pok)
+print(sum(costs) - sum(costs[:int(n) // 6]) // 2)
