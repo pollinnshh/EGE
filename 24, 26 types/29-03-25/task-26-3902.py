@@ -16,8 +16,3 @@ for ip in ips:
     else:
         ans[ip[0]] = [ip[1]]
 
-
-ans_ip = ""
-ans_cnt = 0
-for i in ans.items():
-    if ans_cnt <
