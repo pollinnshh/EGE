@@ -7,7 +7,7 @@ with open("26_17537.txt") as file:
 
 ans = []
 for i in range(2, k + 1):
-    place1, place2 = suitable[i - 1], suitable[i]  # аппендим подходящий ряд и макс. место из пары получается
+    place1, place2 = suitable[i - 1], suitable[i]  # аппендим подходящий ряд и макс. место из пары
     ans.append([min(place1, place2), i])
 
 print(max(ans))
