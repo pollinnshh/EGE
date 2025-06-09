@@ -16,3 +16,6 @@ for i in range(len(data) - 129):
     ans = min(ans, len(s) + cnt)
 
 print(ans)
+
+
+
