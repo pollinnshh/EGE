@@ -285,7 +285,7 @@
                     if len(sub_str) < 2 or sub_str[0] == "0" and sub_str[1] in digits:
                         break
                     if eval(sub_str) == 0:
-                        ans = max(ans, len(match))
+                        ans = max(ans, len(sub_str))
                         break
 
     print(ans)
